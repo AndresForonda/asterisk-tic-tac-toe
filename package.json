@@ -31,6 +31,5 @@
   "dependencies": {
     "ari-client": "^2.2.0",
     "socket.io": "^2.3.0"
-  },
-  "type": "module"
+  }
 }
